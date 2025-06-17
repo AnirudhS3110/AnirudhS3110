@@ -8,7 +8,6 @@
 - 🧠 Focusing on building **AI-powered SaaS apps** that combine full-stack engineering with **GPT-based intelligence**.
 - 💬 Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`, `Firebase`, `LangChain`
 - 🌐 Portfolio: [anirudhselvakumar.vercel.app](https://anirudhselvakumar.vercel.app/)
-- 🧩 Fun fact: I like designing UIs with storytelling vibes like [JoshRadnor.com](https://joshradnor.com)
 
 ---
 
@@ -21,7 +20,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
 </p>
 
@@ -45,8 +43,8 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-selvakumar/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/your_ig_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-selvakumar-45948b2a7/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.anirudh1012._/)
 
 ---
 
