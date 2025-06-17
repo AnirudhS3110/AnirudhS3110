@@ -1,11 +1,12 @@
 <h1 align="center">Hey 👋, I'm Anirudh</h1>
-<p align="center">🚀 Full Stack Developer | ⚡ AI Enthusiast | 🎨 Aesthetic Seeker</p>
+<p align="center">🚀 Full Stack Developer &nbsp;|&nbsp; 🎨 Passionate Web Designer 🖌️</p>
 
 ---
 
 ### 🧠 About Me
 
-- 🌱 Currently building a **College OLX-style MERN Marketplace**
+> 🧠 Focusing on building **AI-powered SaaS apps** that combine full-stack engineering with **GPT-based intelligence**.
+
 - 💬 Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`, `Firebase`, `LangChain`
 - 🌐 Portfolio: [anirudhselvakumar.vercel.app](https://anirudhselvakumar.vercel.app/)
 - 🧩 Fun fact: I like designing UIs with storytelling vibes like [JoshRadnor.com](https://joshradnor.com)
@@ -14,14 +15,16 @@
 
 ### 🛠 Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+</p>
 
 ---
 
@@ -43,10 +46,11 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/anirudh-selvakumar/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://instagram.com/your_ig_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-selvakumar/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/your_ig_here)
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=AnirudhS3110&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AnirudhS3110&color=blue" alt="Profile Views"/>
+</p>
