@@ -6,7 +6,7 @@
 ###  About Me
 
 - 🧠 Focusing on building **AI-powered SaaS apps** that combine full-stack engineering with **GPT-based intelligence**.
-- 💬 Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`, `Firebase`, `LangChain`
+- 💬 Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`,`React.js`
 - 🌐 Portfolio: [anirudhselvakumar.vercel.app](https://anirudhselvakumar.vercel.app/)
 
 ---
