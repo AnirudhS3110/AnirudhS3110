@@ -48,7 +48,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AnirudhS3110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" title="Total profile views"/>
-</p>
+
 
