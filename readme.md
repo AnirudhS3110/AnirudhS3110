@@ -13,7 +13,7 @@
 
 ###  Tech Stack
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
