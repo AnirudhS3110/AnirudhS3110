@@ -1,17 +1,17 @@
-<h1 align="center">Hey 👋, I'm Anirudh</h1>
-<p align="center">🚀 Full Stack Developer &nbsp;|&nbsp; 🎨 Passionate Web Designer 🖌️</p>
+<h1 align="center">Hi, I'm Anirudh</h1>
+<p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer </p>
 
 ---
 
 ###  About Me
 
-- 🧠 Focusing on building **AI-powered SaaS apps** that combine full-stack engineering with **GPT-based intelligence**.
-- 💬 Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`,`React.js`
-- 🌐 Portfolio: [anirudhselvakumar.vercel.app](https://anirudhselvakumar31.vercel.app/)
+-  Currently Exploring/Learning Agentic AI & LLM Engineering.
+-  Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`,`React.js`
+-  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -25,23 +25,13 @@
 
 ---
 
-### 📈 GitHub Stats
+###  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnirudhS3110&show_icons=true&theme=radical" alt="Anirudh's GitHub stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnirudhS3110&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
----
-
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anirudh-selvakumar-45948b2a7/)
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/_.anirudh1012._/)
 
 ---
 
