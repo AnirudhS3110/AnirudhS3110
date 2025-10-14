@@ -23,17 +23,6 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
   <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
-
----
-
-###  GitHub Stats
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnirudhS3110&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ---
 
 
