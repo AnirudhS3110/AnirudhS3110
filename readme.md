@@ -5,7 +5,7 @@
 
 ###  About Me
 
--  Currently Exploring/Learning Agentic AI & LLM Engineering.
+-  Currently Exploring/Learning ML & DL.
 -  Ask me about: `Next.js`, `Tailwind`, `Supabase`, `Mongo`,`React.js`
 -  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
