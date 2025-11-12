@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anirudh</h1>
-<p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer </p>
+<p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer & Block Chain Developer </p>
 
 ---
 
