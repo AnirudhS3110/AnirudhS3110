@@ -3,7 +3,7 @@
 
 ---
 
--  Currently Learning ML & Block Chain.
+-  Currently Learning **ML** & **Block Chain** ( **Solidity** ).
 -  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
 ---
