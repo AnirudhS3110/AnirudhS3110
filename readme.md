@@ -7,8 +7,8 @@
 
 ---
 ## Crafted With Love (Featured Works):
-- <u>IQ groups: [iqgroup.in](https://www.iqgroup.in/)</u>
-- <u>Jaskaran Bothra Foundations: [jkbfoundation.com](https://www.iqgroup.in)</u>
+- <u>IQ groups: <u><a href="https://www.iqgroup.in/" target="_blank">iqgroup.in</a></u>
+- <u>Jaskaran Bothra Foundations: <u><a href="https://www.jkbfoundation.com/" target="_blank">jkbfoundation.com</a></u>
 ---
 
 ##  Tech Stack:
