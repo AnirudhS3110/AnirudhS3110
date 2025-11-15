@@ -2,13 +2,16 @@
 <p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer & Block Chain Developer </p>
 
 ---
-
 -  Currently Learning **ML** & **Block Chain** ( **Solidity** ).
 -  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
 ---
+## Crafted With Love (Featured Works):
+- <u>IQ groups: [iqgroup.in](https://www.iqgroup.in/)</u>
+- <u>Jaskaran Bothra Foundations: [jkbfoundation.com](https://www.iqgroup.in)</u>
+---
 
-###  Tech Stack:
+##  Tech Stack:
 ### Web 2.0
 <p align="left">
  
