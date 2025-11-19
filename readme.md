@@ -34,6 +34,12 @@
   
 </p>
 
+### Web 3.0
+<p>
+ <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+</p>
+
+
 
 
 
