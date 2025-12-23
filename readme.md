@@ -2,7 +2,7 @@
 <p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer & Block Chain Developer </p>
 
 ---
--  Currently Learning **Generative AI** and build **Scalable Systems**.
+-  Currently Learning **Generative AI** , build **Scalable Systems** and **MlOps**.
 -  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
 ---
