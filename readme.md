@@ -39,6 +39,9 @@
  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
+---
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnirudhS3110&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
 
 
 
