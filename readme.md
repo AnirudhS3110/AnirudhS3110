@@ -1,8 +1,10 @@
 <h1 align="center">Hi, I'm Anirudh</h1>
-<p align="center"> Full Stack Developer &nbsp;|&nbsp;  Passionate Web Designer &nbsp;|&nbsp; Aspiring Agentic AI Engineer & Block Chain Developer </p>
+<p align="center">Full Stack Engineer focused on backend systems, scalable APIs, and AI-integrated infrastructure.<br/>
+Currently building production-grade backends <br/> shipping real systems Not tutorials.
+ </p>
 
 ---
--  Currently Learning **Generative AI** ,to build **Scalable Systems** and **MlOps**.
+-  Building **NaaS** — multi-tenant notification infrastructure with transactional delivery & idempotency
 -  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
 
 ---
