@@ -1,52 +1,76 @@
-<h1 align="center">Hi, I'm Anirudh</h1>
-<p align="center">Full Stack Engineer focused on backend systems, scalable APIs, and AI-integrated infrastructure.<br/>
-Currently building production-grade backends <br/> shipping real systems Not tutorials.
- </p>
+<h1 align="center">Hey, I'm Anirudh 👋</h1>
 
----
--  Building **NaaS** — multi-tenant notification infrastructure with transactional delivery & idempotency
--  Portfolio: [anirudhselvakumar31.vercel.app](https://anirudhselvakumar31.vercel.app/)
-
----
-## Crafted With Love (Featured Works):
-- <u>IQ groups: <u><a href="https://www.iqgroup.in/" target="_blank">iqgroup.in</a></u>
-- <u>Jaskaran Bothra Foundations: <u><a href="https://www.jkbfoundation.com/" target="_blank">jkbfoundation.com</a></u>
----
-
-##  Tech Stack:
-### Web 2.0
-<p align="left">
- 
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs"/>
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase"/>
+<p align="center">
+  <b>Full-Stack & Backend Engineer</b> · IIIT Kottayam · Chennai, India<br/>
+  Building production-grade systems — scalable APIs, real-time infra, and AI-integrated backends.<br/>
+  Currently shipping <b><a href="https://notifyflowv1.vercel.app/">NotifyFlow</a></b> — multi-tenant Notification as a Service infrastructure with transactional delivery & idempotency.
 </p>
 
-###  AI/ML
+<p align="center">
+  <a href="https://linkedin.com/in/anirudh-selvakumar-45948b2a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://anirudhselvakumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:anirudhselvakumar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=AnirudhS3110&style=flat-square&color=0A66C2&label=profile+views"/>
+</p>
 
+---
+
+##  Tech Stack
+
+### Languages
 <p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  
+  <img src="https://skillicons.dev/icons?i=ts,js,python,sql&theme=dark"/>
 </p>
 
-### Web 3.0
+### Frontend
 <p>
- <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&theme=dark"/>
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql&theme=dark"/>
+</p>
+
+### Databases & Infra
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,docker,kubernetes&theme=dark"/>
+</p>
+
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,github,git/>
+</p>
+
+### Blockchain
+<p>
+  <img src="https://skillicons.dev/icons?i=solidity&theme=dark"/>
 </p>
 
 ---
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AnirudhS3110&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 
-</div>
+##  Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **NotifyFlow** — Multi-tenant notification infrastructure with BullMQ, Redis Pub/Sub, Socket.IO, and typed Server SDK | NestJS · PostgreSQL · Redis · Docker · TypeScript | [GitHub](https://github.com/NotifyFlow/NotifyFlow-Backend) · [Live](https://notifyflowv1.vercel.app/) |
+| **CampusMart** — Real-time MERN marketplace with WebSocket chat and concurrent load handling | React · Node.js · MongoDB · WebSockets | [GitHub](https://github.com/AnirudhS3110/CampusMart) |
+| **IQ Groups Website** — Production Next.js site with GSAP animations, 40% bounce rate drop | Next.js · TypeScript · Framer Motion | [Live](https://iqgroup.in/) |
+| **JKB Foundation** — Production website for a nonprofit foundation | Next.js · TypeScript · Tailwind CSS | [Live](https://www.jkbfoundation.com/) |
+| **AIxDevOps** — RAG pipeline with CI/CD, Docker, Kubernetes, and GitHub Actions | FastAPI · Docker · K8s · ChromaDB | [GitHub](https://github.com/AnirudhS3110/nextwork-rag-api) |
+
+---
+
+##  GitHub Stats
 
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AnirudhS3110&theme=tokyonight&hide_border=true"/>
+</p>
 
+---
+
+<p align="center">
+  <i>Open to backend, full-stack, and SWE intern/full-time roles · Available immediately</i>
+</p>
