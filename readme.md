@@ -13,6 +13,18 @@
   <img src="https://komarev.com/ghpvc/?username=AnirudhS3110&style=flat-square&color=0A66C2&label=profile+views"/>
 </p>
 
+
+---
+##  Featured Projects
+
+| Project | Stack | Links |
+|---|---|---|
+| **NotifyFlow** — Multi-tenant Notification as a Service infrastructure with BullMQ, Redis Pub/Sub, Socket.IO, and typed Server&Client side SDK | NestJS · PostgreSQL · Redis · Docker · TypeScript | [GitHub](https://github.com/NotifyFlow/NotifyFlow-Backend) · [Live](https://notifyflowv1.vercel.app/) |
+| **CampusMart** — Real-time MERN marketplace with WebSocket chat and concurrent load handling | React · Node.js · MongoDB · WebSockets | [GitHub](https://github.com/AnirudhS3110/CampusMart) |
+| **IQ Groups Website** — Production Next.js site with GSAP animations, 40% bounce rate drop | Next.js · TypeScript · Framer Motion | [Live](https://iqgroup.in/) |
+| **JKB Foundation** — Production website for a nonprofit foundation | Next.js · TypeScript · Tailwind CSS | [Live](https://www.jkbfoundation.com/) |
+| **AIxDevOps** — RAG pipeline with CI/CD, Docker, Kubernetes, and GitHub Actions | FastAPI · Docker · K8s · ChromaDB | [GitHub](https://github.com/AnirudhS3110/nextwork-rag-api) |
+
 ---
 
 ##  Tech Stack
@@ -49,17 +61,7 @@
 
 ---
 
-##  Featured Projects
 
-| Project | Stack | Links |
-|---|---|---|
-| **NotifyFlow** — Multi-tenant Notification as a Service infrastructure with BullMQ, Redis Pub/Sub, Socket.IO, and typed Server&Client side SDK | NestJS · PostgreSQL · Redis · Docker · TypeScript | [GitHub](https://github.com/NotifyFlow/NotifyFlow-Backend) · [Live](https://notifyflowv1.vercel.app/) |
-| **CampusMart** — Real-time MERN marketplace with WebSocket chat and concurrent load handling | React · Node.js · MongoDB · WebSockets | [GitHub](https://github.com/AnirudhS3110/CampusMart) |
-| **IQ Groups Website** — Production Next.js site with GSAP animations, 40% bounce rate drop | Next.js · TypeScript · Framer Motion | [Live](https://iqgroup.in/) |
-| **JKB Foundation** — Production website for a nonprofit foundation | Next.js · TypeScript · Tailwind CSS | [Live](https://www.jkbfoundation.com/) |
-| **AIxDevOps** — RAG pipeline with CI/CD, Docker, Kubernetes, and GitHub Actions | FastAPI · Docker · K8s · ChromaDB | [GitHub](https://github.com/AnirudhS3110/nextwork-rag-api) |
-
----
 
 ##  GitHub Stats
 
