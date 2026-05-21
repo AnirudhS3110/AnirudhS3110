@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anirudh-selvakumar-45948b2a7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://anirudhselvakumar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://anirudhselvakumar31.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="mailto:anirudhselvakumar31@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <img src="https://komarev.com/ghpvc/?username=AnirudhS3110&style=flat-square&color=0A66C2&label=profile+views"/>
 </p>
