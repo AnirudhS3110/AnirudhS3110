@@ -34,12 +34,12 @@
 
 ### Databases & Infra
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase,docker,kubernetes&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,supabase"/>
 </p>
 
 ### Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,github,git/>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git"/>
 </p>
 
 ### Blockchain
