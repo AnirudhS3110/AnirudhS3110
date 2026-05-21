@@ -53,7 +53,7 @@
 
 | Project | Stack | Links |
 |---|---|---|
-| **NotifyFlow** — Multi-tenant notification infrastructure with BullMQ, Redis Pub/Sub, Socket.IO, and typed Server SDK | NestJS · PostgreSQL · Redis · Docker · TypeScript | [GitHub](https://github.com/NotifyFlow/NotifyFlow-Backend) · [Live](https://notifyflowv1.vercel.app/) |
+| **NotifyFlow** — Multi-tenant Notification as a Service infrastructure with BullMQ, Redis Pub/Sub, Socket.IO, and typed Server&Client side SDK | NestJS · PostgreSQL · Redis · Docker · TypeScript | [GitHub](https://github.com/NotifyFlow/NotifyFlow-Backend) · [Live](https://notifyflowv1.vercel.app/) |
 | **CampusMart** — Real-time MERN marketplace with WebSocket chat and concurrent load handling | React · Node.js · MongoDB · WebSockets | [GitHub](https://github.com/AnirudhS3110/CampusMart) |
 | **IQ Groups Website** — Production Next.js site with GSAP animations, 40% bounce rate drop | Next.js · TypeScript · Framer Motion | [Live](https://iqgroup.in/) |
 | **JKB Foundation** — Production website for a nonprofit foundation | Next.js · TypeScript · Tailwind CSS | [Live](https://www.jkbfoundation.com/) |
