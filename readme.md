@@ -61,14 +61,11 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,github,git&theme=dark"/>
 </p>
 
-## AI / Realtime / Distributed Systems
+## Agentic AI
 
 <p>
-  <img src="https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/LangGraph-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/langchain.svg" height="40" />
+  &nbsp;&nbsp;
 </p>
 
 ## Blockchain
