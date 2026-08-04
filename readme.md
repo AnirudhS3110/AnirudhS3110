@@ -1,7 +1,7 @@
-<h1 align="center">Hey, I'm Anirudh 👋</h1>
+<h1 align="center">Hey, I'm Anirudh </h1>
 
 <p align="center">
-  <b>Full-Stack & Backend Engineer</b> · IIIT Kottayam · Chennai, India<br/>
+  <b>Full-Stack Engineer Intern @Solvornx</b> · IIIT Kottayam · Chennai, India<br/>
   Building Production Grade Scalable-Distributed Systems, Realtime Infrastructure, and Agentic AI platforms.<br/>
   Currently building scalable systems focused on orchestration, realtime execution, and developer infrastructure.
 </p>
